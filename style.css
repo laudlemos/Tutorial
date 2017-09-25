@@ -1,0 +1,26 @@
+body {
+	font-family: 'Inconsolata', monospace;
+	width: 100%;
+	background-color: #000;
+	color: #fff;
+}
+div {
+	width: 70%;
+	max-width: 600px;
+	margin: 100px auto;
+}
+h1 {
+	font-weight: 700;
+	font-size: 50px;
+	color: #ff6a00;
+}
+em {
+	font-weight: 700;
+	color: #00ff94;
+}
+ul li {
+	font-weight: 400;
+	font-size: 18px;
+	list-style: square;
+	line-height: 30px;
+}
